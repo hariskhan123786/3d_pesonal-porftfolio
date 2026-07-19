@@ -175,11 +175,10 @@ This portfolio demonstrates my:
 
 BS Computer Science Student
 
-📧 Email: your-email@example.com
+📧 Email: hariskhangamer4@gmail.com
 
-🌐 GitHub: https://github.com/yourusername
+🌐 GitHub: https://github.com/hariskhan123786
 
-💼 LinkedIn: https://linkedin.com/in/yourusername
 
 ---
 
